@@ -4,3 +4,6 @@ As imagens de conteúdo da demonstração* Foram retiradas do google.
 
 Este projeto foi adaptado para um projeto integrador da disciplina de informática na escola IFRN - Campus João Câmara, onde escolhemos a disciplina de Ciencias Sociais 
 ara modificar o template original de acordo com as necessidades do nosso trabalho.
+
+Alunos: Jonathas Pereira do Nascimento. 
+Matricula: 20241064010001
